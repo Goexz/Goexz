@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm West</h1>
-<h3 align="center">I'm passionate about becoming a cloud engineer</h3>
+<h3 align="center">Github อันนี้ผมจะไว้สำหรับการเริ่มต้นการพัฒนาระบบ Security</h3>
 
-- 🌱 I’m currently learning **Go, Google Cloud**
-
-- 💬 Ask me about **Lua, Roblox Studio**
-
-- 📫 How to reach me **zxysynap@gmail.com**
-
-- ⚡ Fun fact **need exp**
+- 🌱 I’m currently learning **Go**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
