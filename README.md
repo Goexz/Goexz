@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm West</h1>
-<h3 align="center">Github อันนี้ผมจะไว้สำหรับการเริ่มต้นการพัฒนาระบบ Security / Deploy Web</h3>
+<h3 align="center">Github Resume</h3>
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Solidity,Horhat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -10,5 +10,5 @@
 <a href="https://discordapp.com/users/1276448177830105155" target="blank"><img align="center" src="https://github.com/ZxySynap/logo/blob/main/toppng.com-discord-logo-01-discord-logo-3126x2249.png" alt="1276448177830105155" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ZxySynap/logo/refs/heads/main/Golang%20Go.png" alt="go" width="60" height="45"/> </a> </p>
+
+
