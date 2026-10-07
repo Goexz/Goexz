@@ -23,9 +23,9 @@
 | Project | What I worked on | Take a look |
 | :--- | :--- | :--- |
 | **Go Delpy Trigger** | A Go + Gin API for anonymous messaging, with a UUID-based flow and Docker packaging. | [Source](https://github.com/Goexz/go-delpy-trigger) |
-| **Discord Webhook System** | A Node.js Discord app with buttons for creating webhooks, designed to be easier to use on a phone. | [Project notes](https://drive.google.com/file/d/1R09XlvX3MbHElmyBeiBap-D60uR1yeKe/view) |
+| **Discord Webhook System** | A Node.js Discord app with buttons for creating webhooks, designed to be easier to use on a phone. | [Project notes]() |
 | **Roblox Systems** | Fishing mechanics, enemy paths, unit placement and an in-game economy. | [Fishing system source](https://github.com/Goexz/fish_fishna/) |
-| **Digital Chip Flow** | Experiments with SystemVerilog, LibreLane and the gf180mcuD PDK, exploring the path to GDSII. | [Design notes](https://drive.google.com/file/d/1R09XlvX3MbHElmyBeiBap-D60uR1yeKe/view) |
+| **Digital Chip Flow** | Experiments with SystemVerilog, LibreLane and the gf180mcuD PDK, exploring the path to GDSII. | [Design notes]() |
 
 <details>
 <summary><strong>From Lua to logic gates</strong></summary>
@@ -40,4 +40,4 @@ My latest portfolio uses React, TypeScript, Tailwind CSS and GSAP, with SVG and 
 
 ---
 
-<p align="center"><strong>Close to the metal.</strong><br><sub>Think / make / iterate</sub></p>
+<p align="center"><strong>Close to the Silicon.</strong><br><sub>Think / make / iterate</sub></p>
